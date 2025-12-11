@@ -11,7 +11,22 @@ Programa turi funkcionalumą, leidžiantį pasirinkti generuoti atsitiktinius st
 Duomenis nuskaitant iš failo, naudotojas gali pasirinkti, nori matyti rezultatų lentelę terminale ar nori lentelę įrašyti į naują failą. Rezultatas nuskaitant nuo failo yra lentelė, kurioje pateikiami studentų vardai, pavardės ir galutiniai rezultatai, skaičiuoti tiek su mediana, tiek su vidurkiu. Pasirinkus lentelę įrašyti į failą, naudotojas gali studentus išvesti į du failus, išskirstant juos pagal jų galutinį pažymį. Į "vargšiukų" grupę yra skiriami studentai, kurių galutinis pažymys yra mažesnis už 5, o į "kietiakų" grupę skiriami studentai, kurių pažymys yra lygus arba didesnis už 5 (Verta atkreipti dėmesį, kad skirstant į grupes naudojami abiem būdais skaičiuoti galutiniai balai ir studentas į tam tikrą kategoriją skiriamas pagal jų vidurkį).
 
 
-# Programos diegimo failo - setup.exe  (1.5 versijos pagrindu) naudojimosi instrukciją 
+# Programos diegimo failo - setup.msi (1.5 versijos pagrindu) naudojimosi instrukciją 
+1. Iš šios repozicijos atsisiųskite Setup.msi failą
+2. Raskite jį "Downloads" skiltyje ir paleiskite paspausdami du kartus
+3. Tuomet turi išmesti tokį Setup Wizard langą. Spustelkite "Next"
+   <img width="392" height="321" alt="1" src="https://github.com/user-attachments/assets/1568ab6e-0275-43c8-886a-a8e3ef1660a3" />
+4. Tuomet pamatysite langą, kuriame nurodomas aplankas, kuriame įdiegiama programa. Šiuo atveju - tai C:/Program files/VU/Emilija-Morkunaite. Spustelkite "Next"
+   
+<img width="391" height="322" alt="2" src="https://github.com/user-attachments/assets/b65c55ec-be72-4069-9b1a-128d782fe610" />
+
+5. Galite pradėti instaliavimą. Spustelkite "Next"
+
+<img width="391" height="323" alt="3" src="https://github.com/user-attachments/assets/471feb97-3833-484a-9d76-15082d8c4628" />
+ 
+6. Instaliavimas baigtas. Programą galite rasti tiek darbalaukyje, tiek start meniu - pavadinimu studentuprograma
+
+<img width="101" height="119" alt="image" src="https://github.com/user-attachments/assets/b38d88f5-924a-4fac-8181-1262ae885c13" />
 
 # V1.5 aprašymas
 
