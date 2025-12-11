@@ -705,8 +705,10 @@ int main (){
         list<Studentas> vargsiukai, kietiakai;
         isvesti_studentus(Grupe, vargsiukai,kietiakai,rez_pasirinkimas);
     }
+    system("pause");
     return 0;
 }
+
 
 
 
